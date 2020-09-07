@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Sep 07 14:02:56 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0174-6872-9f16-000006860600 
+on database directory C:\Users\Laptop\git\DAT250\dat250-jpa-examples\bankingdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3b764bce 
+Loaded from file:/C:/Users/Laptop/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=9+181
+user.dir=C:\Users\Laptop\git\DAT250\jpa-basic
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
