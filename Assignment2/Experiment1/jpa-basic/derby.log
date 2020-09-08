@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Mon Sep 07 11:29:34 CEST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0174-67e6-342f-000006a947d8 
+Tue Sep 08 19:00:25 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0174-6ea9-5558-000005f218b8 
 on database directory C:\Users\Laptop\git\DAT250\dat250-jpa-examples\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3b764bce 
 Loaded from file:/C:/Users/Laptop/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=9+181
-user.dir=C:\Users\Laptop\git\DAT250\dat250-jpa-examples\eclipselink\jpa-basic
+user.dir=C:\Users\Laptop\git\DAT250\DAT250_Assignment1\Assignment2\Experiment1\jpa-basic
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
