@@ -13,6 +13,7 @@ This part ended up being more time consuming and frustraiting then I expected. I
 Now that all my technical problems was fixed with experiment 1, I just copied my project from experiment 1 and deleted all the classes so I could make the banking app. I took some time, but I got it done. The hardest part was to find out the correct relations and mappings in JPA. The videos from Lars about the topic helped me understand how it worked. I then ran the program and inspected it with ij, just like in experiment 1.
 
 Here is a screenshot just to show an example:
+
 ![inspecting data](https://github.com/571540/DAT250_Assignment1/blob/master/images/ex2.PNG)
 
 Here are the repository for both Experiment 1 & 2: https://github.com/571540/DAT250_Assignment1/tree/master/Assignment2
