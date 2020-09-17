@@ -2,7 +2,7 @@
 
 ## Installation: MongoDB
 
-I had no problems during the installation, just followed the tutorial and downloaded version 4.4.1 of the community edition. I added C:\Program Files\MongoDB\Server\4.4\bin to PATH.
+I had no problems during the installation, just followed the tutorial and downloaded version 4.4.1 of the community edition. I also added C:\Program Files\MongoDB\Server\4.4\bin to PATH.
 
 ## Verification
 
