@@ -10,6 +10,8 @@ I had no problems during the installation, just followed the tutorial and downlo
 
 ## Experiment 1
 
+This part was also pretty straigh-forward and didn't really have any issues here either
+
 ### Insert
 
 ![inspecting data](https://github.com/571540/DAT250_Assignment1/blob/master/images/insert.PNG)
