@@ -47,3 +47,5 @@ This part was also pretty straigh-forward and didn't really have any issues here
 My MapReduce finds the total amount of items that each customer bought
 
 ![inspecting data](https://github.com/571540/DAT250_Assignment1/blob/master/images/example3.PNG)
+
+No pending issues
