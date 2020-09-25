@@ -1,7 +1,6 @@
 package no.hvl.dat250.experiment2;
 
 import javax.persistence.EntityManager;
-
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import javax.persistence.Query;
