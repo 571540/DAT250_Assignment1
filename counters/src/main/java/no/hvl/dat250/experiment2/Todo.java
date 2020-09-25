@@ -7,6 +7,7 @@ import javax.persistence.Id;
 import com.google.gson.Gson;
 import lombok.Data;
 
+@Data
 @Entity
 public class Todo {
     @Id
@@ -16,11 +17,8 @@ public class Todo {
     private String description;
 
     String toJson () {
-
         Gson gson = new Gson();
-
-        String jsonString = gson.toJson(this);
-
-        return jsonString;
+        String jsonInString = gson.toJson(this);
+        return jsonInString;
     }
 }
