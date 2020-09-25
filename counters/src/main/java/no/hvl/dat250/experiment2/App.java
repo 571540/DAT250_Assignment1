@@ -2,7 +2,6 @@ package no.hvl.dat250.experiment2;
 
 import com.google.gson.Gson;
 import java.util.List;
-
 import static spark.Spark.*;
 
 public class App {
@@ -21,7 +20,7 @@ public class App {
         });
 
         get("/todos", (req, res) -> {
-        	List<Todo> todo = todoDAO.read();
+	    List<Todo> todo = todoDAO.read();
             Gson gson = new Gson();
             return gson.toJson(todo.toArray());
         });
@@ -31,15 +30,15 @@ public class App {
             return todo.toJson();
         });
 
-        put("/todo", (req, res) -> {
-        	Gson gson = new Gson();
+        put("/todos", (req, res) -> {
+            Gson gson = new Gson();
             Todo todo = gson.fromJson(req.body(), Todo.class);
             todoDAO.update(todo);
             return "Updated: " + todo.toJson();
         });
 
         post("/todos", (req, res) -> {
-        	Gson gson = new Gson();
+            Gson gson = new Gson();
             Todo todo = gson.fromJson(req.body(), Todo.class);
             todoDAO.create(todo);
             return "Created: " + todo.toJson();
