@@ -1,2 +1,1 @@
-# DAT250_Assignment1
-DAT250
+# DAT250 experiments
